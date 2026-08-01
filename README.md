@@ -43,6 +43,23 @@
 ---
 
 ## 🚀 Projects
+### 📌 Employee Management System
+
+A console-based CRUD application developed using Java, Hibernate, JPA, MySQL, and Maven.
+
+**Features**
+- Add, update, delete, and view employee records
+- Hibernate ORM integration with MySQL
+- JPA annotations for entity mapping
+- Transaction management using Hibernate Session API
+- Maven for dependency management
+
+**Tech Stack**
+- Java
+- Hibernate
+- JPA
+- MySQL
+- Maven
 
 ### 📌 TaskFlow
 A Task Management Web Application developed using React.
